@@ -8,3 +8,4 @@ torch
 dwave-system
 dwave-networkx
 dimod
+fastf1
