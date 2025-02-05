@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+gymnasium
+stable-baselines3
+torch
+dwave-system
+dwave-networkx
+dimod
