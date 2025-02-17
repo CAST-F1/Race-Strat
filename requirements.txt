@@ -9,3 +9,4 @@ dwave-system
 dwave-networkx
 dimod
 fastf1
+ipykernel
